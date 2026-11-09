@@ -1,5 +1,7 @@
 # SamDocker — Turn an Old Android Phone into a Remote Linux Server
 
+我就不汉化😂
+
 An Android APK that turns a discarded phone into a 24/7 cloud-accessible Linux server. Install the APK, plug the phone into a charger, drop it in a drawer — you now have a remote Linux shell reachable from any browser.
 
 [中文版 (Chinese version)](./README.zh-CN.md)
