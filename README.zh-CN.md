@@ -1,6 +1,6 @@
-# SamDocker — 把废旧安卓手机变成可远程控制的 Linux 服务器
+# SamDocker — 把废旧安卓手机变成可远程控制的 Linux VM
 
-一个 Android APK，装到旧手机上之后，手机插上充电器丢抽屉里 = 一台 7×24 在线的、可远程访问的 Linux 服务器。
+一个 Android APK，装到旧手机上之后，手机插上充电器丢抽屉里 = 一台 7×24 在线的、可远程访问的 Linux 虚拟机。
 
 [English version](./README.md)
 
@@ -67,3 +67,5 @@
 - SamDocker 版本号（应用主屏幕显示）
 - 复现步骤
 - 如有 logcat 片段也请附上
+
+我没有完全改
